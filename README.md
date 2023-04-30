@@ -8,7 +8,7 @@ In this collection, you'll find scripts for various purposes, such as integratin
 
 - [Getting Started](#getting-started)
 - [Available Scripts](#available-scripts)
-    - [Add article To Read in Feedly](#add-article-to-read-in-feedly)
+    - [Add article To Read in Feedly](#1-add-article-to-read-later-in-feedly)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -25,7 +25,6 @@ cd automation-scripts
 - If you want to use feedly scripts, please generate a [Feedly developer access token](https://developer.feedly.com/v3/developer/).
 
 # Available Scripts
-
 ## 1. Add article to read later in Feedly 
 
 ### Location
