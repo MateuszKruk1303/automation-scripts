@@ -4,7 +4,7 @@ This repository is a collection of my personal automation scripts, designed to m
 
 In this collection, you'll find scripts for various purposes, such as integrating with external services, automating repetitive tasks, and more. Feel free to explore, use, and modify the scripts as per your requirements.
 
-# 📑 Table of Contents
+# Table of Contents
 
 - [Getting Started](#getting-started)
 - [Available Scripts](#available-scripts)
@@ -13,7 +13,7 @@ In this collection, you'll find scripts for various purposes, such as integratin
 - [Contributing](#contributing)
 - [License](#license)
 
-# 🚥 Getting Started
+# Getting Started
 
 To use these scripts, you'll need to clone this repository to your local machine.
 
@@ -22,7 +22,7 @@ git clone https://github.com/yourusername/automation-scripts.git
 cd automation-scripts
 ```
 
-# 📃 Available Scripts
+# Available Scripts
 ## 1. Add article to read later in Feedly 
 
 ### 👉 Location
@@ -73,10 +73,9 @@ translate to your clipboard, invoke script using shortcut/macro and paste transl
 ```
 node feedly/add-article-to-read-from-clipboard.mjs <DEEPL_ACCESS_TOKEN> <TARGET_LNG>
 ```
-
-# 🤝 Contributing
+# Contributing
 If you'd like to contribute to this project, please feel free to reach me. I'd love to hear your ideas and suggestions and
 work with you to make this collection better.
 
-# 📄 License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
