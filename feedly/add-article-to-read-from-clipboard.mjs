@@ -6,7 +6,6 @@ const [_, __, token, id] = process.argv
 
 const FEEDLY_TOKEN = token
 const BOARD_ID = id
-
 const BASE_URL = "https://cloud.feedly.com/v3";
 
 const urlToReadLater = clipboardy.readSync()
